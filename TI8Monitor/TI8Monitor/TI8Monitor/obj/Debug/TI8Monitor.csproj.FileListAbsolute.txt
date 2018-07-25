@@ -1,0 +1,4 @@
+D:\TI8Monitor\TI8Monitor\TI8Monitor\bin\Debug\TI8Monitor.exe
+D:\TI8Monitor\TI8Monitor\TI8Monitor\bin\Debug\TI8Monitor.pdb
+D:\TI8Monitor\TI8Monitor\TI8Monitor\obj\Debug\TI8Monitor.exe
+D:\TI8Monitor\TI8Monitor\TI8Monitor\obj\Debug\TI8Monitor.pdb
